@@ -48,7 +48,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: preview project
         altText: ''
         url: flappybirds-clone.netlify.app
         showIcon: false
