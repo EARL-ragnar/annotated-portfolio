@@ -5,8 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  cool note taking web app for yur browser will probaly turn it into a browser
-  extention 
+  A really cool note taking web app for your browser will Probably turn it into
+  a browser Extention 
 featuredImage:
   type: ImageBlock
   url: /images/Screen Shot 2025-02-01 at 7.03.26 AM.png
