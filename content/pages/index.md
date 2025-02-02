@@ -50,10 +50,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: preview project
-        url: flappybirds-clone.netlify.app/
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
