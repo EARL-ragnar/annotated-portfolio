@@ -50,7 +50,16 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
