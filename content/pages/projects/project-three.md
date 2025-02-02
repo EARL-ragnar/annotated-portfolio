@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Note taking Web application '
 colors: colors-a
-date: '2025-02-22'
+date: '2025-02-01'
 client: Awesome client
 description: >-
   A really cool note taking web app for your browser will Probably turn it into
