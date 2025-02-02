@@ -46,16 +46,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions:
-      - type: Button
-        label: preview project
-        altText: ''
-        url: flappybirds-clone.netlify.app
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
