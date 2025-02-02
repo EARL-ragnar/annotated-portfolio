@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Flappy-bird clone web browser game '
 colors: colors-a
-date: '2025-02-15'
+date: '2025-02-01'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
