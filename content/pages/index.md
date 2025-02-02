@@ -53,7 +53,7 @@ sections:
     actions:
       - type: Link
         label: preview project
-        url: /projects
+        url: flappybirds-clone.netlify.app/
     showDate: false
     showDescription: true
     showFeaturedImage: true
